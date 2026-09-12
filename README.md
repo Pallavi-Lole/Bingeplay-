@@ -38,7 +38,4 @@ Main tables:
 * Perform SQL-based data analysis
 * Generate useful insights using queries
 
-## 👩‍💻 Author
 
-**Pallavi Lole**
-CSE Student | AMGOI
